@@ -1,23 +1,23 @@
-### Hi there, I'm Tessa
+## Hi there, I'm Tessa
 
-<!--
-**Tessakam/Tessakam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## 👋 Positive and enthusiastic Junior Web developer 
+#### 👋 Enthusiastic Junior Web developer 
 
 - I'm currently following a 10 month coding education program at BeCode
 - Looking for a 3 month internship - starting February 2021
+<br />
 
-## 🔧 Skills
+<!--
+#### 🔧 Skills
+
+<img align="left" alt="PHP Storm" width="26px" src="https://raw.githubusercontent.com/Tessakam/icons/PHPStorm.png" />
+
+<br /> -->
 
 
-## 📫 Connect with me
+#### 📫 Connect with me
 
-[![LinkedIn][1.2]][1].
+[<img align="left" alt="tessa-kam-985a491b3 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<!-- Icons -->
-[1.2]: https://raw.githubusercontent.com/Tessakam/Tessakam/master/Linkedin.png (LinkedIn icon without padding)
+</details>
 
-<!-- Links to your social media accounts -->
-[1]: https://www.linkedin.com/in/tessa-kam-985a491b3
-
+[linkedin]: https://www.linkedin.com/in/tessa-kam-985a491b3
