@@ -2,9 +2,8 @@
 
 #### Enthusiastic Junior Web developer 
 
-- I'm currently following a 10 month coding education program at BeCode 🤓
-- Looking for a 3 month internship - starting February 2021 🔍
-<br />
+- I'm currently following a 7-month coding education program at BeCode 🤓
+- Looking for a 3-month internship (starting February 2021) 🔍
 
 #### Skills
 
@@ -30,4 +29,11 @@
 </details>
 
 [linkedin]: https://www.linkedin.com/in/tessa-kam-985a491b3
+
+
+<!--#### Software skills
+<img align="left" alt="Office" width="40px" src="https://raw.githubusercontent.com/Tessakam/Tessakam/main/icons/unused/Office.png" />
+<img align="left" alt="SAP" width="60px" src="https://raw.githubusercontent.com/Tessakam/Tessakam/main/icons/unused/SAP.png" />
+<img align="left" alt="SAP BO" width="70px" src="https://raw.githubusercontent.com/Tessakam/Tessakam/main/icons/unused/SAP%20BO.png" />
+<img align="left" alt="Salesforce" width="70px" src="https://raw.githubusercontent.com/Tessakam/Tessakam/main/icons/unused/Salesforce.png" />
 
