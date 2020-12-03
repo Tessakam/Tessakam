@@ -3,7 +3,7 @@
 #### Enthusiastic Junior Web developer 
 
 - I'm currently following a 7-month coding education program at BeCode 🤓
-- Looking for a 3-month internship (starting February 2021) 🔍
+- After this coding bootcamp, a 3-month internship will follow at [Soluz.io]: https://www.soluz.io/
 
 #### Skills
 
