@@ -28,8 +28,8 @@
 
 </details>
 
-[linkedin](https://www.linkedin.com/in/tessa-kam-985a491b3){target="_blank"}
-[Soluz.io](https://www.soluz.io/){target="_blank"}
+[linkedin]<a href="https://www.linkedin.com/in/tessa-kam-985a491b3" target="_blank"</a>
+[Soluz.io]<a href="https://www.soluz.io/" target="_blank"</a>
 
 <!--#### Software skills
 <img align="left" alt="Office" width="40px" src="https://raw.githubusercontent.com/Tessakam/Tessakam/main/icons/unused/Office.png" />
