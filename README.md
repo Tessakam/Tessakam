@@ -3,7 +3,7 @@
 #### Enthusiastic Junior Web developer 
 
 - I'm currently following a 7-month coding education program at BeCode 🤓
-- After this coding bootcamp, a 3-month internship will follow at [Soluz.io]: https://www.soluz.io/
+- After this coding bootcamp, a 3-month internship will follow at [Soluz.io] 
 
 #### Skills
 
@@ -29,6 +29,7 @@
 </details>
 
 [linkedin]: https://www.linkedin.com/in/tessa-kam-985a491b3
+[Soluz.io]: https://www.soluz.io/
 
 
 <!--#### Software skills
